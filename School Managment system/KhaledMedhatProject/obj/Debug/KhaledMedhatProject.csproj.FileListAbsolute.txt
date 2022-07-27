@@ -1,0 +1,10 @@
+C:\Users\Khaled Zakaria\Desktop\KhaledMedhatProject\KhaledMedhatProject\bin\Debug\KhaledMedhatProject.exe.config
+C:\Users\Khaled Zakaria\Desktop\KhaledMedhatProject\KhaledMedhatProject\bin\Debug\KhaledMedhatProject.exe
+C:\Users\Khaled Zakaria\Desktop\KhaledMedhatProject\KhaledMedhatProject\bin\Debug\KhaledMedhatProject.pdb
+C:\Users\Khaled Zakaria\Desktop\KhaledMedhatProject\KhaledMedhatProject\obj\Debug\KhaledMedhatProject.csprojResolveAssemblyReference.cache
+C:\Users\Khaled Zakaria\Desktop\KhaledMedhatProject\KhaledMedhatProject\obj\Debug\KhaledMedhatProject.Form1.resources
+C:\Users\Khaled Zakaria\Desktop\KhaledMedhatProject\KhaledMedhatProject\obj\Debug\KhaledMedhatProject.Properties.Resources.resources
+C:\Users\Khaled Zakaria\Desktop\KhaledMedhatProject\KhaledMedhatProject\obj\Debug\KhaledMedhatProject.csproj.GenerateResource.Cache
+C:\Users\Khaled Zakaria\Desktop\KhaledMedhatProject\KhaledMedhatProject\obj\Debug\KhaledMedhatProject.exe
+C:\Users\Khaled Zakaria\Desktop\KhaledMedhatProject\KhaledMedhatProject\obj\Debug\KhaledMedhatProject.pdb
+C:\Users\Khaled Zakaria\Desktop\KhaledMedhatProject\KhaledMedhatProject\obj\Debug\KhaledMedhatProject.prog.resources
